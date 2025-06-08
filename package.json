@@ -38,7 +38,7 @@
     "@ngrok/mantle": "0.19.11",
     "@phosphor-icons/react": "2.1.7",
     "@stackql/docusaurus-plugin-hubspot": "1.1.0",
-    "algoliasearch": "5.20.0",
+    "algoliasearch": "5.20.3",
     "client": "link:@docusaurus/plugin-content-docs/client",
     "clsx": "2.1.1",
     "concurrently": "9.1.2",
